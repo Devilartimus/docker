@@ -28,7 +28,7 @@ skills:
     - tools
     - technology
   category: *containers
-- name: docker-compose
+- name: docker-compose.yaml
   level: middle
   category: *containers
   labels:
